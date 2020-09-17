@@ -25,10 +25,10 @@ namespace Seat\Eveapi\Models;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * Class Failed_Jobs.
+ * Class FailedJob.
  * @package Seat\Eveapi\Models
  */
-class Failed_Jobs extends Model
+class FailedJob extends Model
 {
 
 }
